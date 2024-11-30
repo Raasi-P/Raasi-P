@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, #Raasi P <br>Data Analyst<br>Ambitious and strategic Data Analyst/Engineer with over 2 years of experience specializing in data analytics, pipeline optimization, and data management<br><br>Skills: SQL, Advance Excel, Python, Power BI, Data Anaysis<br><br>- 🔭 I’m currently working on Skills Development <br>- 🌱 I’m currently learning Power BI <br>- 💬 Ask me about SQL, Excel, Python <br>- 📫 How to reach me: rashireddy981212@gmail.com or https://www.linkedin.com/in/raasi-p-3b37211a3/...<br>- 😄 Pronouns: Raasi 
+Hi there 👋, I'm Raasi P<br>Data Analyst<br>Ambitious and strategic Data Analyst/Engineer with over 2 years of experience specializing in data analytics, pipeline optimization, and data management<br><br>Skills: SQL, Advance Excel, Python, Power BI, Data Anaysis<br><br>- 🔭 I’m currently working on Skills Development <br>- 🌱 I’m currently learning Power BI <br>- 💬 Ask me about SQL, Excel, Python <br>- 📫 How to reach me: rashireddy981212@gmail.com or https://www.linkedin.com/in/raasi-p-3b37211a3/...<br>- 😄 Pronouns: Raasi 
 
 
 ## 🌐 Socials:
