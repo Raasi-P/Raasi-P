@@ -28,7 +28,7 @@ Skills: SQL, Advance Excel, Python, Power BI, Data Anaysis
 
 ###
 
-<h2 align="left">Socials</h2>
+<h2 align="left">Socials:</h2>
 
 ###
 
