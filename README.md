@@ -10,14 +10,7 @@ Skills: SQL, Advance Excel, Python, Power BI, Data Anaysis
 - 📫 How to reach me: rashireddy981212@gmail.com or https://www.linkedin.com/in/raasi-p-3b37211a3/...
 - 😄 Pronouns: Raasi 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raasi_p)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/Raasi-P)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raasi-p-3b37211a3/)  
-
-<h2 align="left">Hi 👋! My name is Raasi P and I'm a Data Analyst/Engineer from Bangalore....</h2>
-
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/190169526?v=4"  />
+<h2 align="left">Tech Stack:</h2>
 
 ###
 
@@ -32,6 +25,14 @@ Skills: SQL, Advance Excel, Python, Power BI, Data Anaysis
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
 </div>
+
+###
+
+<h2 align="left">Socials</h2>
+
+###
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/190169526?v=4"  />
 
 ###
 
