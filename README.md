@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @ Raasi P
-- 👀 I’m interested in Analysing Data...
-- 🌱 I’m currently learning Power BI...
-- 💞️ Ask me about SQL, Advanced Excel, Python ...
-- 📫 How to reach me rashireddy981212@gmail.com or https://www.linkedin.com/in/raasi-p-3b37211a3/...
-- 😄 Pronouns: Raasi...
-
 ### Hi there 👋, Raasi P
 #### Data Analyst
 Ambitious and strategic Data Analyst/Engineer with over 2 years of experience specializing in data analytics, pipeline optimization, and data management
@@ -14,7 +7,7 @@ Skills: SQL, Advance Excel, Python, Power BI, Data Anaysis
 - 🔭 I’m currently working on Skills Development 
 - 🌱 I’m currently learning Power BI 
 - 💬 Ask me about SQL, Excel, Python 
-- 📫 How to reach me: rashireddy981212@gmail.com 
+- 📫 How to reach me: rashireddy981212@gmail.com or https://www.linkedin.com/in/raasi-p-3b37211a3/...
 - 😄 Pronouns: Raasi 
 
 
